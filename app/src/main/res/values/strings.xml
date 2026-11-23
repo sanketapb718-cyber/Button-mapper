@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Power Master Pro</string>
+    <string name="accessibility_description">Detects Volume Up key presses to lock the screen when enabled by the user.</string>
+</resources>
